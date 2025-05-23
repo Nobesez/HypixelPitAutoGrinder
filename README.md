@@ -3,3 +3,4 @@ MitFox's Autogrinder, but with a few improvements(and not needing to worry about
 
 Added Improvements:
 Drinks Olympus Potion
+Drinks Soups (haven't tested)
