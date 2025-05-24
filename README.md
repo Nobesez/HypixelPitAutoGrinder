@@ -6,3 +6,4 @@ Watch Mitfox's video to get the general idea of the mod: https://www.youtube.com
 Added Improvements:  
 Drinks Olympus Potion  
 Drinks Soups (haven't tested)  
+Improved PANIC mode - /oof s if stuck, prevents the bot from stopping, better for longer sessions  
